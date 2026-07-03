@@ -15,7 +15,7 @@ end
 
 -- Sadece kurucuya (sana) yetki veriyoruz
 local Adminler = {
-	[game.CreatorId] = true,
+	[10519495369] = true,
 }
 
 -- 2. SUNUCU TARAFI: BUTONA BASILINCA KÖMÜRLERİ GETİREN KOD
